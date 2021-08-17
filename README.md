@@ -1,4 +1,4 @@
-## Recipes App
+## Recipes App - Set Up Components
 
 For this code-along activity we are going to be building an app to help users keep track of their recipes. The user will be able to browse recipes by categories, such as breakfast, lunch, and dinner, and create recipes of their own.
 
